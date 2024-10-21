@@ -1,9 +1,4 @@
-p {
-  color: royalblue;
-}
-
 .body {
-  padding: 20px;
   margin: 40px auto;
   max-width: 900px;
   padding: 30px;
@@ -49,6 +44,7 @@ p {
   margin-bottom: 20px;
   color: #666;
   font-size: 1.1em;
+  color: royalblue;
 }
 
 body {
