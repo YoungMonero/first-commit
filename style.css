@@ -1,9 +1,11 @@
-body{
-    background-color: blue;
-}
-button{
-    border: 5px;
-    color: bisque;
-    font: 1em sans-serif;
-    box-sizing: border-box;
-}
+
+body {
+  background-color: blue;
+ }
+ 
+button {
+  border: 5px;
+  color: bisque;
+  font: 1em sans-serif; 
+  box-sizing:10px ;
+ }
