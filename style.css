@@ -1,15 +1,14 @@
-
 p {
   color: royalblue;
 }
 
 .body {
   padding: 20px;
-  margin:40px auto;
+  margin: 40px auto;
   max-width: 900px;
   padding: 30px;
   border-radius: 15px;
-  box-shadow:0 10px 30px rgba(0, 0.2, 0.2, 0.5);
+  box-shadow: 0 10px 30px rgba(0, 0.2, 0.2, 0.5);
   transition: transform 0.3s;
   background-color: rosybrown; 
 }
@@ -23,7 +22,7 @@ p {
   border-radius: 20px 20px 20px 20px;
   font-size: 1em;
   font-weight: bold;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 50%);
   transition: transform 0.3s ease-in-out;
 }
 
@@ -32,7 +31,7 @@ img {
   height: auto;
   margin: 20px 0;
   border-radius: 15px;
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 10%);
   transition: transform 0.3s ease-in-out;
 }
 
@@ -41,7 +40,8 @@ img:hover {
 }
 
 .imgs {
-  text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
